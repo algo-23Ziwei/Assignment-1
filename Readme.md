@@ -1,2 +1,3 @@
 5210 Assignment 1  
-海龟交易法则的实现
+海龟克隆优化
+Turtle clone optimization
